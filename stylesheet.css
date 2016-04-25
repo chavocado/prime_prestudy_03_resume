@@ -1,0 +1,87 @@
+
+
+body {
+	font: inherit;
+	font-size: 100%;
+	font-family: Helvetica, sans-serif;
+	background-color: #C5D0E6;
+	background: url(http://56.media.tumblr.com/ee6d2d68e1a141d9d62cdfc316842bed/tumblr_o0v1m6uSRi1tf8vylo1_1280.png);
+	background-size: 100% 100%;
+	width: 750px;
+	padding: 0 50px 15px 80px;
+}
+
+button {
+	margin-top: 20px;
+	margin-left: 105px;
+	padding: 5px;
+	background-color: #DDF5CA;
+	border-radius: 15px;
+}
+
+.resume {
+	display: none;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: 500;
+	text-align: left;
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+h2 { 
+	font-size: 30px;
+	font-style: cursive;
+	font-weight: 300;
+	text-align: left;
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+h2 strong {
+	font-weight: 400;
+}
+h3 {
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+h4 {
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+header{
+	height: 55px;
+	border-bottom: 1px solid #999;
+}
+.contact{
+	padding-top: 10px;
+}
+#pic {
+	float: right;
+	padding-left: -400px;
+}
+#objective {
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	margin-left: 10px;
+	height: auto;
+	width: auto;
+}
+.work {
+	font-size: 20px;
+	font-weight: bold;
+	padding-bottom: 0;
+	border-bottom: 1px solid #999;
+}
+.education{
+	border-bottom: 1px solid #999;
+}
+.skills{
+	border-bottom: 1px solid #999;
+}
+.past {
+}
+td {
+	width: 500px;
+	margin-left: 10px;
+}
+.date{
+	float: right;
+}
